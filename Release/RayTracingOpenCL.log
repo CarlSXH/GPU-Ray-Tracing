@@ -1,0 +1,17 @@
+﻿  Main.cpp
+d:\carl\documents\visual studio 2017\raytracing\raytracingopencl\main.cpp(108): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\carl\documents\visual studio 2017\raytracing\raytracingopencl\main.cpp(452): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+d:\carl\documents\visual studio 2017\raytracing\raytracingopencl\main.cpp(476): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+d:\carl\documents\visual studio 2017\raytracing\raytracingopencl\main.cpp(492): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+d:\carl\documents\visual studio 2017\raytracing\raytracingopencl\main.cpp(510): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+d:\carl\documents\visual studio 2017\raytracing\raytracingopencl\main.cpp(533): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+d:\carl\documents\visual studio 2017\raytracing\raytracingopencl\main.cpp(558): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+d:\carl\documents\visual studio 2017\raytracing\raytracingopencl\main.cpp(631): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+d:\carl\documents\visual studio 2017\raytracing\raytracingopencl\main.cpp(702): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+d:\carl\documents\visual studio 2017\raytracing\raytracingopencl\main.cpp(707): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+  Generating code
+  1 of 95 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RayTracingOpenCL.vcxproj -> D:\Carl\Documents\Visual Studio 2017\RayTracing\RayTracingOpenCL\Release\RayTracingOpenCL.exe
